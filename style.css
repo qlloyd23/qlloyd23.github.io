@@ -6,11 +6,11 @@
 }
 h1{
         color:green;
-        font-family:monospace;
         font-size:xx-large;
 }
 body {
         background-color:lightgreen;
+        font-family:monospace;
 }
 img {
         border:darkgreen solid 6px;
