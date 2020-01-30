@@ -5,12 +5,12 @@
         margin-bottom:6px;
 }
 h1{
-        color:green;
         font-size:xx-large;
 }
 body {
         background-color:lightgreen;
         font-family:monospace;
+        color:green;
 }
 img {
         border:darkgreen solid 6px;
