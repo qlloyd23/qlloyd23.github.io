@@ -16,7 +16,7 @@ body {
 img {
         border:darkgreen solid 6px;
 }
-.banner img{
+.banner{
         width:600px;
         height:200px;
 }
