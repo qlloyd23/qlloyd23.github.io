@@ -11,11 +11,12 @@ body {
         background-color:lightgreen;
         font-family:monospace;
         color:green;
+        align:center; 
 }
 img {
         border:darkgreen solid 6px;
 }
-.banner{
+.banner img{
         width:600px;
         height:200px;
 }
