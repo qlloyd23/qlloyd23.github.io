@@ -7,13 +7,16 @@
 #siteHolder{
        background-color: transparent;
        width:600px;
+       margin:auto;
 }
-
+#background{
+     background-image: url("myBackground");
+}
 body{
      background-color:lightgreen;
      font-family:monospace;
      color:green;
-     align:center;      
+           
 }
 .navbar{
         margin-right:6px;
