@@ -19,6 +19,8 @@ h1{
 
 img {
         border:darkgreen solid 6px;
-        width:300px;
-        height:100px;
+}
+.banner{
+       width:600px;
+       height:800px;
 }
