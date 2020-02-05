@@ -1,5 +1,8 @@
-.all{ 
-       
+#me1{ 
+     float:right;  
+}
+#me2{
+     float:left;  
 }
 #siteHolder{
        background-color: transparent;
