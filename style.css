@@ -1,5 +1,9 @@
 .all{
       margin:50%;  
+      background-color:lightgreen;
+      font-family:monospace;
+      color:green;
+      align:center; 
 }
 .navbar{
         margin-right:6px;
@@ -10,12 +14,7 @@
 h1{
         font-size:xx-large;
 }
-body {
-        background-color:lightgreen;
-        font-family:monospace;
-        color:green;
-        align:center; 
-}
+
 img {
         border:darkgreen solid 6px;
         width:300px;
