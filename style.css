@@ -1,6 +1,11 @@
 .all{ 
        
 }
+#siteHolder{
+       background-color: transparent;
+       width:600px;
+}
+
 body{
      background-color:lightgreen;
      font-family:monospace;
