@@ -1,9 +1,12 @@
 .all{
       margin:50%;  
-      background-color:lightgreen;
-      font-family:monospace;
-      color:green;
-      align:center; 
+       
+}
+body{
+     background-color:lightgreen;
+     font-family:monospace;
+     color:green;
+     align:center;      
 }
 .navbar{
         margin-right:6px;
